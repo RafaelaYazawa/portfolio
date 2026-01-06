@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Reacquaint",
+        "summary": "AI decision making assistant for ",
+        "description": "​Platform designed to assist users in crafting superior bids to secure higher-quality work opportunities. By enhancing the bidding process, it aims to increase success rates in competitive environments.",
+        "image": "projects/reacquaint.png",
+        "stacks": ["bootstrap", "postgresql", "rails", "stimulus"],
+        "online": true
+    },
+    {
+        "title": "VoiceBloom",
+        "summary": "Voice training platform",
+        "description": "VoiceBloom is a voice journaling app designed to help people express themselves freely through spoken reflections. Users can record private or public audio logs, receive encouragement and constructive feedback, and grow more confident in their voice.", 
+        "image": "projects/voicebloom.png",
+        "stacks": ["react", "tailwindCSS", "typescript"],
+        "online": true
+    },
+    {
+        "title": "Hero Trainer",
+        "summary": "Fitness trainer matching platform.",
+        "description": "​Platform that connects users with elite training partners for personalized workouts and skill development. It aims to provide individualized instruction, ensuring comfortable and suitable workouts for everyone.",
+        "image": "projects/herotrainer.png",
+        "stacks": ["bootstrap", "postgresql", "rails", "stimulus"],
+        "online": true
+    },
+    {
+        "title": "Watch list",
+        "summary": "Movie list app",
+        "description": "A platform that allows users to create and manage movie lists. It helps organize movies into custom lists, making it easier to track and discover titles.",
+        "image": "projects/watchList.png",
+        "stacks": ["bootstrap", "postgresql", "rails"],
+        "online": true
+    },
+    {
+        "title": "Rails Yelp MVP",
+        "summary": "A simplified Yelp-style application",
+        "description": "A full-stack Ruby on Rails web application inspired by Yelp, allowing users to explore restaurants, view details, and write reviews. The project focuses on CRUD operations, nested resources, and clean UI design while following Rails best practices.",
+        "image": "projects/railsYelp.png",
+        "stacks": ["bootstrap", "fontAwesome","postgresql", "rails"],
+        "online": true
+    }
+]
