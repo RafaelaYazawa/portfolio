@@ -36,7 +36,7 @@ const About = () => {
   return (
     <div className="min-h-screen md:min-h-[100dvh] lg:h-screen overflow-hidden">
       <Header />
-      <div className=" bg-[url('../../public/night.jpg')] bg-cover bg-no-repeat block md:flex justify-around">
+      <div className=" bg-[url('/bg/night.jpg')] bg-cover bg-no-repeat block md:flex justify-around">
         <div className="fade-effect justify-center hidden md:block whitespace-nowrap">
           <Ticker hobbiesPic={hobbiesPic} meFriendsPic={meFriendsPic} />
         </div>
