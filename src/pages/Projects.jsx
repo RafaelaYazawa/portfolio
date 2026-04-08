@@ -9,7 +9,7 @@ const Projects = () => {
   return (
     <div
       className="
-        bg-[url(blue.jpg)]
+        bg-[url('../../public/blue.jpg')]
         bg-center
         bg-cover
         bg-no-repeat
