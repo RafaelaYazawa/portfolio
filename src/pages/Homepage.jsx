@@ -8,7 +8,7 @@ const Introduction = () => {
   ];
 
   return (
-    <div className="safe-screen bg-[url('../../public/evening.jpg')] bg-cover bg-center text-white overflow-x-hidden">
+    <div className="safe-screen bg-[url('/bg/evening.jpg')] bg-cover bg-center text-white overflow-x-hidden">
       <div className="align-center flex flex-col md:flex-row min-h-screen justify-between mx-4 md:mx-8 relative">
         <div className=" p-6 md:p-8 md:w-1/2 w-full">
           <h1 className="mx-4 md:px-8 px-4 text-[#FBAF00] text-3xl md:text-4xl font-semibold">
@@ -23,7 +23,7 @@ const Introduction = () => {
           </p>
 
           <div className="absolute bottom-16 md:bottom-20 left-1/4 md:left-1/3 opacity-25 -skew-6 w-32 md:w-48 lg:w-full pointer-events-none">
-            <img src="cloud.png" alt="" className="w-full" />
+            <img src="/cloud.png" alt="" className="w-full" />
           </div>
         </div>
 

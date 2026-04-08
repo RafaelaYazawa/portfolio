@@ -3,7 +3,7 @@ import ExperienceSection from "../components/ExperienceSection";
 
 const Experience = () => {
   return (
-    <div className="bg-[url('../../public/polar.jpg')] bg-center bg-cover bg-no-repeat relative">
+    <div className="bg-[url('/bg/polar.jpg')] bg-center bg-cover bg-no-repeat relative">
       <Header />
       <div className="px-4 py-6 sm:px-8 md:px-12 lg:px-16 mx-auto">
         <h1 className="text-center text-[#FBAF00] text-2xl sm:text-3xl md:text-4xl md:text-left font-semibold mb-4 md:mx-4 md:px-8">
