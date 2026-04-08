@@ -21,10 +21,6 @@ const Introduction = () => {
             a future web developer, and I hope to learn much more as time passes
             by.
           </p>
-
-          <div className="absolute bottom-16 md:bottom-20 left-1/4 md:left-1/3 opacity-25 -skew-6 w-32 md:w-48 lg:w-full pointer-events-none">
-            <img src="/cloud.png" alt="" className="w-full" />
-          </div>
         </div>
 
         <div className="flex items-center justify-center my-8 md:mt-0 w-full md:w-1/2">
